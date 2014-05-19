@@ -1,5 +1,18 @@
 extends ../shared/template
 
 block content
-  h1 Node.js Template
-  a.button.button-3d-highlight.button-circle(href='/help') Help
+  h1 Take Out Test
+
+  .container
+    .left-pane
+      #login
+        input#user(type='text' name='username' placeholder='Name')
+        button#login-btn Login
+        #username bob
+      #userpast
+        button#get-past-orders Your Past Orders
+      #total
+      #order-form
+    .right-pane
+      #menu
+      #past-orders

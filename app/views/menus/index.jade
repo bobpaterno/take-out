@@ -1,0 +1,14 @@
+table
+  thead
+    tr
+      th Type
+      th Food
+      th Cost
+      th Calories
+  tbody
+    each item in menu
+      tr
+        td= item.type
+        td= item.food
+        td= item.cost
+        td= item.calories

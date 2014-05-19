@@ -1,0 +1,9 @@
+{"type":"breakfast", "food":"eggs", "cost":"2.50", "calories":"125"}
+{"type":"breakfast", "food":"Pancakes", "cost":"5.00", "calories":"450"}
+{"type":"breakfast", "food":"Oatmeal", "cost":"3.00", "calories":"250"}
+{"type":"lunch", "food":"Sliders", "cost":"5.50", "calories":"550"}
+{"type":"lunch", "food":"Veggie Wrap", "cost":"5.00", "calories":"380"}
+{"type":"lunch", "food":"Bean Burrito", "cost":"5.75", "calories":"450"}
+{"type":"dinner", "food":"Steak", "cost":"9.00", "calories":"600"}
+{"type":"dinner", "food":"Chicken", "cost":"8.75", "calories":"550"}
+{"type":"dinner", "food":"Vegetable Platter", "cost":"7.00", "calories":"450"}
